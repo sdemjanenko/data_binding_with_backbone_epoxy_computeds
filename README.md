@@ -4,7 +4,7 @@ Data Binding With Backbone Epoxy Computeds
 Data Binding
 ------------
 
-Data binding is tying the DOM to the model data such that for a bound input field
+Data binding is tying the DOM to the model data such that bound input field
 changes propagate to the bound model and updates to the model from the server get
 propagated to the input field.  This is an example of two-way data binding because
 the model can update the input and the input can update the model.
