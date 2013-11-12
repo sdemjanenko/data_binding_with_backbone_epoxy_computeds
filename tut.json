@@ -2,7 +2,7 @@
 	"name": "data_binding_with_backbone_epoxy_computeds",
 	"title": "Data Binding With Backbone Epoxy Computeds",
 	"description": "Getting helper functions used for formatting or rendering complex views in Backbone can be difficult.  Backbone.Epoxy's computeds offers a clean way of thinking about these helper functions.",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"github_path": "sdemjanenko/data_binding_with_backbone_epoxy_computeds",
 	"difficulty": 4,
 	"topics": [
