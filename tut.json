@@ -1,0 +1,31 @@
+{
+	"name": "data_binding_with_backbone_epoxy_computeds",
+	"title": "Data Binding With Backbone Epoxy Computeds",
+	"description": "A brief description of what will be covered in the tutorial",
+	"version": "0.0.0",
+	"github_path": "sdemjanenko/data_binding_with_backbone_epoxy_computeds",
+	"difficulty": 1,
+	"topics": [
+  "JavaScript"
+],
+	"questions": [
+  {
+    "question": "how long should it take someone to read your tutorial?",
+    "options": [
+      "15 minutes",
+      "1 hour",
+      "30 minutes",
+      "2 hours"
+    ],
+    "answer": "15 minutes"
+  },
+  {
+    "question": "an advanced tutorial should have a difficulty of 1",
+    "answer": false
+  },
+  {
+    "question": "this command line tool can be used to create tutorials",
+    "answer": "tut"
+  }
+]
+}
