@@ -1,31 +1,33 @@
 {
 	"name": "data_binding_with_backbone_epoxy_computeds",
 	"title": "Data Binding With Backbone Epoxy Computeds",
-	"description": "A brief description of what will be covered in the tutorial",
+	"description": "Getting helper functions used for formatting or rendering complex views in Backbone can be difficult.  Backbone.Epoxy's computeds offers a clean way of thinking about these helper functions.",
 	"version": "0.0.0",
 	"github_path": "sdemjanenko/data_binding_with_backbone_epoxy_computeds",
-	"difficulty": 1,
+	"difficulty": 4,
 	"topics": [
-  "JavaScript"
+    "JavaScript",
+    "Backbone",
+    "Backbone.Epoxy",
+    "Data-binding",
 ],
 	"questions": [
   {
-    "question": "how long should it take someone to read your tutorial?",
+    "question": "Where should your helper functions go in a Backbone.Epoxy.Model?",
     "options": [
-      "15 minutes",
-      "1 hour",
-      "30 minutes",
-      "2 hours"
+      "In the computeds hash",
+      "Directly on the model",
+      "In the view"
     ],
-    "answer": "15 minutes"
+    "answer": "In the computeds hash"
   },
   {
-    "question": "an advanced tutorial should have a difficulty of 1",
+    "question": "Backbone comes with data-binding built in",
     "answer": false
   },
   {
-    "question": "this command line tool can be used to create tutorials",
-    "answer": "tut"
+    "question": "Backbone.Epoxy is the only data-binding library for Backbone",
+    "answer": false
   }
 ]
 }
